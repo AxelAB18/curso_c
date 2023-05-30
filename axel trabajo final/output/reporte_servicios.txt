@@ -1,0 +1,25 @@
+Servicio: Cambio de aceite
+Trabajador: Luis Sanchez
+Tiempo de realización: 2 horas y 12 minutos
+Repuestos vendidos: marca: Aceite de motor, precio: 20.000000, cantidad: 10, fecha de registro: 2023-05-29
+---------------------------------------
+Servicio: Alineación y balanceo
+Trabajador: Laura Gomez
+Tiempo de realización: 3 horas y 8 minutos
+Repuestos vendidos: marca: Filtro de aire, precio: 15.000000, cantidad: 5, fecha de registro: 2023-05-29
+---------------------------------------
+Servicio: Limpieza de carburador
+Trabajador: Roberto Ramirez
+Tiempo de realización: 1 horas y 40 minutos
+Repuestos vendidos: marca: Bujías, precio: 8.000000, cantidad: 20, fecha de registro: 2023-05-29
+---------------------------------------
+Servicio: Cambio de bujías
+Trabajador: Marta Fernandez
+Tiempo de realización: 2 horas y 20 minutos
+Repuestos vendidos: marca: Pastillas de freno, precio: 25.000000, cantidad: 8, fecha de registro: 2023-05-29
+---------------------------------------
+Servicio: Revisión de frenos
+Trabajador: David Torres
+Tiempo de realización: 5 horas y 10 minutos
+Repuestos vendidos: marca: Llantas, precio: 100.000000, cantidad: 4, fecha de registro: 2023-05-29
+---------------------------------------
